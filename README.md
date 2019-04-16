@@ -1,5 +1,5 @@
 # CORS
-Cross Origin Sharing
+Cross Origin Resource Sharing
 
 
     CORS from the ground up
